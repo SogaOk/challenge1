@@ -1,1 +1,3 @@
 Hello world, I.m Soga.
+
+I want to work on the challenge and get more experience with git
